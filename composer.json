@@ -1,5 +1,5 @@
 {
-    "name": "spatie/nova-tags-field",
+    "name": "funkju/nova-tags-field",
     "description": "A tags field for Nova apps",
     "keywords": [
         "laravel",
@@ -47,6 +47,12 @@
             ]
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/funkju/laravel-tags"
+        }
+    ],
     "config": {
         "sort-packages": true
     },
